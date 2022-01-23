@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramanuj Ray Choudhury.
-- 👀 I’m interested in Anti money laundering and Financial risk
+- 👀 I’m interested in Blockchain, Machine learning, Web Development
 - 🌱 I’m currently studying MSC in Financial Markets and Technologies in Neoma BS
 - 💞️ I’m looking to collaborate on Machine learning projects related to Finance
 - 📫 You can reach me at toramanuj5@gmail.com
